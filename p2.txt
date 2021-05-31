@@ -1,2 +1,5 @@
 Describa el significado de repositorio.
 Es utilizado para almacenar un proyecto o algo que realizamos y queremos guardar sin riesgo de que se nos elimine ni se nos pierda.
+
+Aparte de GitHub, Qué otras aplicaciones en la nube utilizamos para subir nuestros repositorios?
+Solo he utilizado GitHub por los momentos.
