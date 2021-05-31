@@ -1,0 +1,3 @@
+¿Cuál es la diferencia entre Git y GitHub?
+Git es el sistema de control de versiones, que un software permite tener un control de cambios sobre el código fuente de una aplicación. Fue inventado por Linus Torwalds, el mismo ingeniero que comenzó el desarrollo del Kernell de Linux.
+GitHub es una página que ofrece un grupo de servicios que facilitan el uso de Git, como por ejemplo almacenar proyectos u otros archivos.

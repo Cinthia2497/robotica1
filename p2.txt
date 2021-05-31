@@ -1,0 +1,2 @@
+Describa el significado de repositorio.
+Es utilizado para almacenar un proyecto o algo que realizamos y queremos guardar sin riesgo de que se nos elimine ni se nos pierda.
